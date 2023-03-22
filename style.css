@@ -1,0 +1,227 @@
+.up{
+  margin-left: -8px;
+  margin-top: -8px;
+}
+
+.creativia1{
+  width: 1960px;
+}
+
+.shape1{
+  margin-top: -965px;
+  margin-left: 200px;
+}
+
+.hover {
+  margin-top: -985px;
+
+}
+
+.hover1 {
+  width: 1960px;
+}
+
+.font {
+  color: white;
+  margin-top: -100px;
+  margin-left: 15px;
+}
+
+.why {
+  margin-top: 250px;
+  margin-left: 660px;
+}
+
+.font1 {
+  color: white;
+  margin-left: 260px;
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  margin-left: 800px;
+  background-color: red;
+  border-color: red;
+  color: white;
+}
+
+button:hover{
+  background-color: orange;
+  transition: 0.6s;
+}
+
+.feat {
+  width: 350px;
+  height: 50px;
+  margin-left: -300px;
+  margin-top: 60px;
+  background-color: red;
+}
+
+.feat1 {
+  width: 350px;
+  height: 50px;
+  margin-top: -50px;
+  background-color: red;
+}
+
+.our {
+  color: black;
+}
+
+.pf {
+  color: red;
+}
+
+.div_header {
+  margin-top: 100px;
+}
+.divmain {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  margin-top: 0px;
+}
+
+.allcenter{
+  margin-top: 400px;
+}
+.text_red {
+  color: red;
+}
+.div_colons {
+  display: flex;
+  height: 540px;
+  margin-left: 450px;
+  width: 1050px;
+}
+.div_col {
+  display: flex;
+  flex-direction: column;
+  margin: 20px 10px;
+  text-align: center;
+  border: 2px solid grey;
+}
+.crt {
+  background-color: red;
+  color: white;
+  border: 2px solid red;
+  border-radius: 10px;
+  font-size: 19px;
+  cursor: pointer;
+}
+.crt:hover{
+  background-color: rgb(255, 179, 0);
+  transition: 0.7s;
+}
+.cb {
+  background-color: black;
+  color: white;
+  border: 3px solid black;
+  margin-bottom: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.cb:hover{
+  background-color: rgb(82, 0, 48);
+  transition: 0.7s;
+}
+.number {
+  background-color: grey;
+  font-size: 30px;
+}
+.number1 {
+  background-color: red;
+  color: white;
+  border: 2px solid red;
+  font-size: 26px;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.red {
+  color: white;
+  background-color: red;
+  font-size: 19px;
+  border: 2px solid red;
+  margin: 10px;
+}
+.black {
+  color: black;
+  background-color: white;
+  font-size: 19px;
+  border: 2px solid gray;
+  margin: 10px;
+}
+.img_main {
+  height: 250px;
+  width: 250px;
+}
+
+.cr{
+  background-color: red;
+  padding: 3px;
+}
+
+.div2{
+  margin-top: 30px;
+  background-color: rgb(63, 63, 63);
+  height: 900px;
+  align-items: center;
+  width: 2000px;
+  margin-left: -30px;
+}
+.port{
+  color: white;
+  font-size: 30px;
+ display: flex;
+ justify-content: center;
+}
+.p2{
+  display: flex;
+  color: white;
+  font-size: 15px;
+  justify-content: center;
+}
+.ill{
+  color: red;
+  margin-left: 10px;
+}
+.ll{
+  margin-left: 10px;
+}
+.collage{
+  margin-top: 50px;
+  size: 50%;
+  margin-left: 250px;
+}
+
+.bl{
+  color: red;
+  margin-left: 5px;
+}
+.lorem{
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+}
+.ae{
+  color: red;
+}
+.img{
+  margin-left: 230px;
+}
+
+.div3{
+  align-items: center;
+}
+
+.textmain{
+  color: red;
+  font-weight: bold;
+  margin-top: 50px;
+}
